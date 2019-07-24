@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Mon Mar 04 22:43:34 2019
+Quartus II 64-Bit Version : 14.1.0 Build 186 12/03/2014 SJ Full Version
+Revision Name : signalgenerate
+Top-level Entity Name : PCI
+Family : Cyclone IV E
+Total logic elements : 3,943
+    Total combinational functions : 1,788
+    Dedicated logic registers : 3,072
+Total registers : 3072
+Total pins : 87
+Total virtual pins : 0
+Total memory bits : 356,416
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0

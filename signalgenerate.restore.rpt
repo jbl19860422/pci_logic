@@ -1,0 +1,98 @@
+Restore Archived Project report for signalgenerate
+Thu Apr 24 21:48:09 2014
+Quartus II Version 11.0 Build 157 04/27/2011 SJ Full Version
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. Restore Archived Project Summary
+  3. Restore Archived Project Messages
+  4. Files Restored
+  5. Files Not Restored
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 1991-2011 Altera Corporation
+Your use of Altera Corporation's design tools, logic functions 
+and other software and tools, and its AMPP partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Altera Program License 
+Subscription Agreement, Altera MegaCore Function License 
+Agreement, or other applicable license agreement, including, 
+without limitation, that your use is for the sole purpose of 
+programming logic devices manufactured by Altera and sold by 
+Altera or its authorized distributors.  Please refer to the 
+applicable agreement for further details.
+
+
+
++-------------------------------------------------------------------------+
+; Restore Archived Project Summary                                        ;
++---------------------------------+---------------------------------------+
+; Restore Archived Project Status ; Successful - Thu Apr 24 21:48:09 2014 ;
+; Revision Name                   ; signalgenerate                        ;
+; Top-level Entity Name           ; signalgenerate                        ;
+; Family                          ; Cyclone III                           ;
++---------------------------------+---------------------------------------+
+
+
++-----------------------------------+
+; Restore Archived Project Messages ;
++-----------------------------------+
+Info: Successfully restored 'E:/work/sg_sync/signalgenerate_tmp_archive.qar' into the 'E:/work/sg_sync_copy/' directory
+Info: Generated report 'signalgenerate.restore.rpt'
+
+
++-----------------------------------------------------------+
+; Files Restored                                            ;
++-----------------------------------------------------------+
+; File Name                                                 ;
++-----------------------------------------------------------+
+; tmp/new_highspeed/SPIGet_copy/AsyncSender.vhd             ;
+; ASYNC_SHIFTIN.vhd                                         ;
+; ASYNC_SHIFTOUT.vhd                                        ;
+; AsyncReceiver.vhd                                         ;
+; AsyncSender.vhd                                           ;
+; DIV.vhd                                                   ;
+; DIV2.vhd                                                  ;
+; MasterSyncSerial.vhd                                      ;
+; PLL_80.bsf                                                ;
+; PLL_80.cmp                                                ;
+; PLL_80.inc                                                ;
+; PLL_80.ppf                                                ;
+; PLL_80.qip                                                ;
+; PLL_80.vhd                                                ;
+; PLL_80_inst.vhd                                           ;
+; PulseReceiver.vhd                                         ;
+; PulseTransmitter.vhd                                      ;
+; RECV_CTRL.vhd                                             ;
+; SEND_CTRL.vhd                                             ;
+; SlaveSyncSerial.vhd                                       ;
+; SpiComponent.vhd                                          ;
+; SpiReceiver.vhd                                           ;
+; SpiSender.vhd                                             ;
+; SyncSerialComponent.vhd                                   ;
+; incremental_db/compiled_partitions/signalgenerate.db_info ;
+; signalgenerate.qpf                                        ;
+; signalgenerate.qsf                                        ;
+; signalgenerate.vhd                                        ;
+; signalgenerate.vhdPreview                                 ;
+; signalgenerate_assignment_defaults.qdf                    ;
+; stp1.stp                                                  ;
++-----------------------------------------------------------+
+
+
++--------------------+
+; Files Not Restored ;
++--------------------+
+; File Name          ;
++--------------------+
+
+
